@@ -29,8 +29,8 @@ class FacultySpider(scrapy.Spider):
 
     def parse(self, response):
 
-        save_path = "Faculty-Web-Scraper/Faculty-Pages/"
-        file_name = response.url.split("/")[-1] + '.html'
+        save_path = "/home/trevor/Faculty-Web-Scraper/Faculty-Web-Scraper/Faculty-Pages"
+        file_name = response.url.split("/")[-2] + '.html'
         complete_name = os.path.join(save_path, file_name)
         with open(complete_name, 'wb') as file:
             file.write(response.body)
