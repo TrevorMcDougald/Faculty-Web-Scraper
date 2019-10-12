@@ -1,2 +1,13 @@
 # Project exclude paths
 /venv/
+!/Faculty-Web-Scraper/Faculty-Pages/
+.idea/.gitignore
+.idea/Faculty-Web-Scraper.iml
+.idea/dictionaries/
+.idea/git_toolbox_prj.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pylint.xml
+.idea/sonarlint/
+.idea/vcs.xml
