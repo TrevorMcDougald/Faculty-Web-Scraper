@@ -1,5 +1,0 @@
-Name: Dr. Oleg V Komogortsev
-Education: BS Volgograd State University; MS, PhD Kent State University
-Research Interest: Cybersecurity (biometrics), human computer interaction, eye tracking, bioengineering.
-Email: ok@txstate.edu
-Webpage: http://cs.txstate.edu/~ok11
